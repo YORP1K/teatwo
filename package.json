@@ -1,0 +1,23 @@
+{
+  "name": "teatwo",
+  "version": "1.0.0",
+  "description": "demonstration app 2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YORP1K/teatwo.git"
+  },
+  "dependencies": {
+    "talksssys-tea": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YORP1K/teatwo/issues"
+  },
+  "homepage": "https://github.com/YORP1K/teatwo#readme"
+}
